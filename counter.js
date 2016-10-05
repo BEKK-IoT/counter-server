@@ -67,7 +67,7 @@ let beaconsMap = [
   {name:"blueberry", teams:new Map()},
   {name:"ice", teams:new Map()},
   {name:"mint1", teams:new Map()},
-  {name:"chocolateicecream1", teams:new Map()},
+  {name:"lemon", teams:new Map()},
   {name:"bubblegum", teams:new Map()},
   {name:"merlot", teams:new Map()}
 ]
